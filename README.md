@@ -8,7 +8,7 @@
 `MCL053GT -  LED, Green, Through Hole, T-1 3/4 (5mm), 20 mA, 2.1 V, 570 nm x4`\
 `C4SMG-BJF-CQ0T0351 -  LED, Blue, Through Hole, 4mm, 20 mA, 3.4 V, 470 nm x4`\
 `4-103741-0. -  4-103741-0 ROHS COMPLIANT: NO x2`\
-`Custom PCB x1`\
+`Custom PCB x1`
 
 # Necessary tools and machines
 `Soldering iron (generic)`
